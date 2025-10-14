@@ -1,2 +1,7 @@
 # PJBL-Hash
-Trabalho para a disciplina de Resolução de Problemas Estruturados na Computação
+Disciplina: Resolução de Problemas Estruturados na Computação
+Curso: Ciência da Computação
+Professor: Andrey Cabral Meira
+Alunos: Cecília Lucchesi Mardegan, Christine von Schmalz, Erick Maestri de Souza
+
+# Relatório
