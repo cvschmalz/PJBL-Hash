@@ -1,0 +1,55 @@
+Metodo,FuncaoHash,TamanhoTabela,TamanhoConjunto,Colisoes,TempoInsercao,TempoBusca,TopCadeias,Lacunas
+Encadeamento,Dobramento,10000,10000,7849,0.058227,0.019818,[16, 15, 15],
+EndereçamentoAberto,Dobramento,10000,10000,164986,0.013789,0.011326,,min=1,max=1,media=1.00
+Encadeamento,Multiplicação,10000,10000,3680,0.001229,0.000967,[6, 6, 6],
+EndereçamentoAberto,Multiplicação,10000,10000,7705029,0.050045,0.025023,,min=1,max=1,media=1.00
+Encadeamento,QuadradoMédio,10000,10000,3674,0.003592,0.002946,[6, 6, 6],
+EndereçamentoAberto,QuadradoMédio,10000,10000,122953,0.003722,0.004691,,min=1,max=1,media=1.00
+Encadeamento,Dobramento,10000,50000,47399,0.024563,0.045615,[60, 57, 56],
+EndereçamentoAberto,Dobramento,10000,50000,400088116,1.137717,1.138917,,min=0,max=0,media=0.00
+Encadeamento,Multiplicação,10000,50000,40058,0.001054,0.002331,[15, 14, 14],
+EndereçamentoAberto,Multiplicação,10000,50000,400138705,1.021779,0.953275,,min=0,max=0,media=0.00
+Encadeamento,QuadradoMédio,10000,50000,40068,0.004107,0.011963,[16, 15, 14],
+EndereçamentoAberto,QuadradoMédio,10000,50000,400062711,1.016907,1.113147,,min=0,max=0,media=0.00
+Encadeamento,Dobramento,10000,100000,97302,0.021903,0.129414,[105, 104, 100],
+EndereçamentoAberto,Dobramento,10000,100000,900088116,2.302773,2.686366,,min=0,max=0,media=0.00
+Encadeamento,Multiplicação,10000,100000,90000,0.001298,0.008692,[23, 22, 22],
+EndereçamentoAberto,Multiplicação,10000,100000,900138705,2.326879,2.179880,,min=0,max=0,media=0.00
+Encadeamento,QuadradoMédio,10000,100000,90000,0.005632,0.031164,[24, 23, 21],
+EndereçamentoAberto,QuadradoMédio,10000,100000,900062711,2.336458,2.634632,,min=0,max=0,media=0.00
+Encadeamento,Dobramento,100000,10000,7849,0.002214,0.003455,[16, 15, 15],
+EndereçamentoAberto,Dobramento,100000,10000,8709,0.002928,0.003502,,min=1,max=101,media=12.20
+Encadeamento,Multiplicação,100000,10000,478,0.000160,0.000128,[3, 3, 3],
+EndereçamentoAberto,Multiplicação,100000,10000,560,0.000304,0.000214,,min=1,max=83,media=10.02
+Encadeamento,QuadradoMédio,100000,10000,3674,0.000597,0.001106,[6, 6, 6],
+EndereçamentoAberto,QuadradoMédio,100000,10000,4080,0.000928,0.000967,,min=1,max=272,media=15.86
+Encadeamento,Dobramento,100000,50000,47399,0.011293,0.045368,[60, 57, 56],
+EndereçamentoAberto,Dobramento,100000,50000,71849,0.017862,0.015622,,min=1,max=24,media=2.06
+Encadeamento,Multiplicação,100000,50000,10678,0.000737,0.001155,[6, 6, 6],
+EndereçamentoAberto,Multiplicação,100000,50000,95235,0.002294,0.003501,,min=1,max=17,media=1.96
+Encadeamento,QuadradoMédio,100000,50000,40068,0.003119,0.012391,[16, 15, 14],
+EndereçamentoAberto,QuadradoMédio,100000,50000,70062,0.007543,0.008425,,min=1,max=20,media=2.28
+Encadeamento,Dobramento,100000,100000,97302,0.024312,0.174961,[105, 104, 100],
+EndereçamentoAberto,Dobramento,100000,100000,1790158,0.111963,0.056913,,min=1,max=1,media=1.00
+Encadeamento,Multiplicação,100000,100000,36820,0.001540,0.003745,[8, 7, 7],
+EndereçamentoAberto,Multiplicação,100000,100000,750501080,2.397560,3.466817,,min=1,max=1,media=1.00
+Encadeamento,QuadradoMédio,100000,100000,90000,0.005415,0.036100,[24, 23, 21],
+EndereçamentoAberto,QuadradoMédio,100000,100000,1972259,0.016490,0.034203,,min=1,max=1,media=1.00
+Encadeamento,Dobramento,1000000,10000,7849,0.002668,0.003644,[16, 15, 15],
+EndereçamentoAberto,Dobramento,1000000,10000,7922,0.003130,0.003674,,min=1,max=1151,media=123.60
+Encadeamento,Multiplicação,1000000,10000,42,0.000495,0.000219,[2, 2, 2],
+EndereçamentoAberto,Multiplicação,1000000,10000,43,0.000550,0.000306,,min=1,max=1135,media=100.02
+Encadeamento,QuadradoMédio,1000000,10000,3674,0.001120,0.002310,[6, 6, 6],
+EndereçamentoAberto,QuadradoMédio,1000000,10000,3725,0.001117,0.001000,,min=1,max=1974,media=165.36
+Encadeamento,Dobramento,1000000,50000,47399,0.011562,0.045648,[60, 57, 56],
+EndereçamentoAberto,Dobramento,1000000,50000,49129,0.034002,0.019076,,min=1,max=257,media=21.04
+Encadeamento,Multiplicação,1000000,50000,1161,0.001788,0.001324,[3, 3, 3],
+EndereçamentoAberto,Multiplicação,1000000,50000,1247,0.005184,0.002744,,min=1,max=218,media=19.98
+Encadeamento,QuadradoMédio,1000000,50000,40068,0.003874,0.012750,[16, 15, 14],
+EndereçamentoAberto,QuadradoMédio,1000000,50000,42144,0.008995,0.010406,,min=1,max=326,media=24.63
+Encadeamento,Dobramento,1000000,100000,97302,0.024846,0.146179,[105, 104, 100],
+EndereçamentoAberto,Dobramento,1000000,100000,103428,0.032710,0.054852,,min=1,max=106,media=10.26
+Encadeamento,Multiplicação,1000000,100000,4702,0.003775,0.003346,[4, 4, 4],
+EndereçamentoAberto,Multiplicação,1000000,100000,5372,0.004730,0.003286,,min=1,max=124,media=10.00
+Encadeamento,QuadradoMédio,1000000,100000,90000,0.005727,0.024393,[24, 23, 21],
+EndereçamentoAberto,QuadradoMédio,1000000,100000,98176,0.010219,0.013371,,min=1,max=132,media=11.00
